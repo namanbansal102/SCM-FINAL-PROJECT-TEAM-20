@@ -5,3 +5,4 @@ print("Running Flask app")
 def returnIndex():
     print("Running Index Page")
     return render_template('index.html')
+app.run(debug=True)
