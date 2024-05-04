@@ -5,7 +5,8 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 ## TECHNOLIGIES WE WILL BE USING IN OUR PROJECT:
 1. HTML
 2. CSS
-3. AngularJS. 
+3. Javascript
+4. Python flask for backend
 
 ## TEAM NUMBER-20
 
