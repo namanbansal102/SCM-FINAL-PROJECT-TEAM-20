@@ -186,7 +186,93 @@ header div {
 
 }
 
+.center-portion {
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+
+}
+
+.upper-heading {
+    font-size: 60px;
+    text-transform: uppercase;
+    padding: 20px;
 
 
+}
+
+.upper-heading span {
+    color: #26de81;
+    animation: changecolor 7.15s linear infinite;
+    position: relative;
+}
+
+.upper-heading span:hover {
+    bottom: 19px;
+}
+.take-input {
+    border: 2px solid #26de81;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    border-radius: 10px;
+}
+
+.take-input-search-button {
+    display: flex;
+    flex-direction: row;
+}
+
+.take-input input {
+    border-radius: 10px;
+}
+.take-input button:hover {
+    background-color: #46fda2;
+}
+
+.all-icons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 500px;
+    row-gap: 40px;
+    padding: 5px;
+    margin-top: 0px;
 
 
+}
+
+.all-icons img {
+    height: 100px;
+    transition: 0.2s;
+    border-radius: 50%;
+
+}
+.all-icons img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 567px) {
+    .all-icons {
+        width: 90vw;
+    }
+
+    .all-icons img {
+        height: 70px;
+    }
+
+}
+
+.quote {
+    margin-top: 40px;
+    letter-spacing: 2px;
+    font-size: 26px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 14px;
+}
