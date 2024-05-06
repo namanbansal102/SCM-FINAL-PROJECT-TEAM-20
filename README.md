@@ -14,6 +14,9 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 
 1. NAKUL GUPTA (2310990579)
 2. NAMAN BANSAL (2310990580)
-3. LOVISH ARRORA (2310990581)
+3. LOVISH ARORA (2310990581)
 
+## Project Progress:
 #### Today we started creating a proper webpage for our social share buttons on which you will be redirected to the desired platform of your favourite content creator.
+#### Created a seperate section for the top trending content creators.
+#### Created About us page where users can reach to us.

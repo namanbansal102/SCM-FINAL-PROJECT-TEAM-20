@@ -5,4 +5,16 @@ print("Running Flask app")
 def returnIndex():
     print("Running Index Page")
     return render_template('index.html')
+@app.route('/polling.html')
+def returnPoll():
+    print("Getting poll Page ")
+    return render_template('polling.html')
+@app.route('/about.html')
+def returnAbout():
+    print("Running About page")
+    return render_template('about.html')
+@app.route('/contact_us.html')
+def returnContact():
+    print("Running Contact Us page")
+    return render_template('contact_us.html')
 app.run(debug=True)
