@@ -19,4 +19,5 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 ## Project Progress:
 #### Today we started creating a proper webpage for our social share buttons on which you will be redirected to the desired platform of your favourite content creator.
 #### Created a seperate section for the top trending content creators.
-#### Created About us page where users can reach to us.
+#### Created Contact us page where users can reach to us.
+#### Created About us page.
