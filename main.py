@@ -17,4 +17,8 @@ def returnAbout():
 def returnContact():
     print("Running Contact Us page")
     return render_template('contact_us.html')
+@app.route('/favourites.html')
+def returnFav():
+    print("Running Contact Us page")
+    return render_template('favourites.html')
 app.run(debug=True)
