@@ -7,7 +7,7 @@ let popcontainer=document.querySelector('.pop-container')
 let allconty=document.querySelector('.allconty')
 let thanksorerror=document.querySelector('.thanksorerror')
 let facebook=document.querySelector('.facebook')
-let instagram=documment.querySelector('.instagram')
+let instagram=document.querySelector('.instagram')
 let twitter=document.querySelector('.twitter')
 // let confetti=document.querySelector('.confetti')
 setImg=0;
@@ -50,10 +50,13 @@ pollArray=[{
     'imgUrl':"https://yt3.googleusercontent.com/roHUwk936gxumfPZ7dK0vIRxjWlGPVK3HFjxz4mvWEwHxRi0ROd_sUXlxitAFyttSZMHRBL_NQ=s900-c-k-c0x00ffffff-no-rj",
     'poll':43
 }]
-// colors=['#f9ca24','#eb4d4b','#686de0','#be2edd','#badc58','#ff6b81','#e15f41','#26de81','#ffa860']
-// pollArray.forEach(element => {
-//     localStorage.setItem(element['name'],JSON.stringify(element))
-// });
+if (localStorage.length < 2) {
+    // Local storage is not empty
+    colors=['#f9ca24','#eb4d4b','#686de0','#be2edd','#badc58','#ff6b81','#e15f41','#26de81','#ffa860']
+    pollArray.forEach(element => {
+        localStorage.setItem(element['name'],JSON.stringify(element))
+    });
+} 
 function fetchItems(){
     dict=[]
     for(let i=0;i<localStorage.length;i++){
