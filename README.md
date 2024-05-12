@@ -36,3 +36,4 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 #### Created a seperate section for the top trending content creators.
 #### Created Contact us page where users can reach to us.
 #### Created About us page.
+#### Added the special content creator feature.
