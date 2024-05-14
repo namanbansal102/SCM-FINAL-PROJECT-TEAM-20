@@ -17,8 +17,15 @@ def returnAbout():
 def returnContact():
     print("Running Contact Us page")
     return render_template('contact_us.html')
+
+@app.route('/login.html')
+def returnLogin():
+    print("Running Contact Us page")
+    return render_template('login.html')
+
 @app.route('/favourites.html')
 def returnFav():
     print("Running Contact Us page")
     return render_template('favourites.html')
+
 app.run(debug=True)
