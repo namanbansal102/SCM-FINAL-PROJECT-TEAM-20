@@ -37,3 +37,6 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 #### Created Contact us page where users can reach to us.
 #### Created About us page.
 #### Added the special content creator feature.
+#### Added the search bar to search your favourite content creator.
+#### Now we can add our favourite content creator to the FAVOURITE LIST.
+#### Now we can also vote for our favourite content creator.
