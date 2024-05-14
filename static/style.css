@@ -8,16 +8,7 @@ body {
     background: linear-gradient(270deg, #FFFFFF, #EBFAED);
     overflow-x: hidden;
 }
-.getcont {
-    height: 100vh;
-    width: 100vw;
-    position: absolute;
-    cursor: none;
 
-    visibility: hidden;
-
-    z-index: 9999;
-}
 :root {
     --mainColor: #26de81;
     --secColor: #ffa860;
@@ -584,7 +575,16 @@ header div {
     opacity: 0.03;
 }
 
+.getcont {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    cursor: none;
 
+    visibility: hidden;
+
+    z-index: 9999;
+}
 
 .rating-button img {
     height: 30px;
