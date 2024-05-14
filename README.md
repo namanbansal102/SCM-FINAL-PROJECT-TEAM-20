@@ -32,11 +32,11 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 3. LOVISH ARORA (2310990581)
 
 ## Project Progress:
-#### Today we started creating a proper webpage for our social share buttons on which you will be redirected to the desired platform of your favourite content creator.
-#### Created a seperate section for the top trending content creators.
-#### Created Contact us page where users can reach to us.
-#### Created About us page.
-#### Added the special content creator feature.
-#### Added the search bar to search your favourite content creator.
-#### Now we can add our favourite content creator to the FAVOURITE LIST.
-#### Now we can also vote for our favourite content creator.
+1. Today we started creating a proper webpage for our social share buttons on which you will be redirected to the desired platform of your favourite content creator.
+2. Created a seperate section for the top trending content creators.
+3. Created Contact us page where users can reach to us.
+4. Created About us page.
+5. Added the special content creator feature.
+6. Added the search bar to search your favourite content creator.
+7. Now we can add our favourite content creator to the FAVOURITE LIST.
+8. Now we can also vote for our favourite content creator.
