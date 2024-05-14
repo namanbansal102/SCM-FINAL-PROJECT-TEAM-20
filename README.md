@@ -10,6 +10,21 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 
 ## TEAM NUMBER-20
 
+## How To Run This Application
+1. Make Sure That Python Latest Version is Installed On System.
+2. pip install flask.
+3. Clone The Project From Git Clone.
+4. Now Run The main.py File.
+5. Server Running on https://localhost:5000.
+
+## Procedure
+```
+> git clone https://github.com/namanbansal102/SCM-FINAL-PROJECT-TEAM-20.git
+> cd SCM-FINAL-PROJECT-TEAM-20
+> pip install flask
+> python main.py
+```
+
 ## TEAM MEMBERS:
 
 1. NAKUL GUPTA (2310990579)
@@ -21,3 +36,4 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 #### Created a seperate section for the top trending content creators.
 #### Created Contact us page where users can reach to us.
 #### Created About us page.
+#### Added the special content creator feature.
