@@ -39,7 +39,7 @@ pollArray=[{
     'poll':80
 },{
     'name':"Tech Burner",
-    'imgUrl':"https://yt3.googleusercontent.com/e7f5GQYfWs0b6JLOvp6tOGO9IvCJbfjUREN7cqbeS8VR0Mc-fJ0jzMV3aNNxHbCFz6RV1kAwxQ=s900-c-k-c0x00ffffff-no-rj",
+    'imgUrl':"https://yt3.googleusercontent.com/r09RpDUvcrXhuGYFqVujMChDqX_MTQbH6ronxmHWQuT5detla632gIkElqz-1lvKBAz7rzR50g=s900-c-k-c0x00ffffff-no-rj",
     'poll':90
 },{
     'name':"Jayant Chahar",
