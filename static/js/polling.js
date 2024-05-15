@@ -39,7 +39,7 @@ pollArray=[{
     'poll':80
 },{
     'name':"Tech Burner",
-    'imgUrl':"https://yt3.googleusercontent.com/r09RpDUvcrXhuGYFqVujMChDqX_MTQbH6ronxmHWQuT5detla632gIkElqz-1lvKBAz7rzR50g=s900-c-k-c0x00ffffff-no-rj",
+    'imgUrl':"https://shubhbio.com/wp-content/uploads/2024/01/IMG-20240119-WA0004.webp",
     'poll':90
 },{
     'name':"Jayant Chahar",
@@ -52,7 +52,7 @@ pollArray=[{
 }]
 if (localStorage.length < 2) {
     // Local storage is not empty
-    colors=['#f9ca24','#eb4d4b','#686de0','#be2edd','#badc58','#ff6b81','#e15f41','#26de81','#ffa860']
+    let colors=['#f9ca24','#eb4d4b','#686de0','#be2edd','#badc58','#ff6b81','#e15f41','#26de81','#ffa860']
     pollArray.forEach(element => {
         localStorage.setItem(element['name'],JSON.stringify(element))
     });
