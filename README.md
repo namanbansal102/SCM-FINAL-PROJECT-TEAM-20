@@ -22,12 +22,12 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 5. Server Running on https://localhost:5000.
 
 ## Procedure
-```
+
 > git clone https://github.com/namanbansal102/SCM-FINAL-PROJECT-TEAM-20.git
 > cd SCM-FINAL-PROJECT-TEAM-20
 > pip install flask
 > python main.py
-```
+
 
 ## TEAM MEMBERS:
 
@@ -45,9 +45,17 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 7. Now we can add our favourite content creator to the FAVOURITE LIST.
 8. Now we can also vote for our favourite content creator.
 
+## Branch info:
+
+| S.no | Branch name | Owner |
+|-----------------|-----------------|-----------------|
+|1. |BRANCH-1|Nakul Gupta|
+|2. |BRANCH-2/main|Naman Bansal|
+|3.|BRANCH-3|Lovish Arora|
 ## TIMELINE
 
 #### Project Preview: Released by team leader Naman Bansal at 4:43 AM IST on May 1, 2024.
+
 
 | Sr No. | File Name     | Features                                      | Merged and pull request at | Deadline for commits | Done by      |
 |--------|---------------|-----------------------------------------------|----------------------------|----------------------|--------------|
@@ -62,3 +70,11 @@ Welcome to our repository! This GitHub repository houses our project aimed at bu
 | 9.     | data.json      | Stores data in key-value pairs and arrays    | 9 May 2024 5:02 AM        | 12 May 2024 6:00 PM  | Nakul Gupta  |
 | 10.    | favourite.js   | Added js for the working of add to fav       | 14 May 2024 9:57 PM       | 13 May 2024 6:00 PM  | Nakul Gupta  |
 | 11.    | login.js       | Login page                                   | 14 May 2024 10:06 PM      | 13 May 2024 6:00 PM  | Lovish Arora |
+
+## Conclusion
+
+Our website is now fully functional, featuring a plethora of exciting features that enhance user experience and usability. This achievement wouldn't have been possible without the relentless efforts and dedication of Nakul Gupta and Lovish Arora, who have significantly contributed as collaborators. With their invaluable input, the project has been successfully completed.
+
+A heartfelt thank you to Nakul Gupta and Lovish Arora for their outstanding work! 👏👏
+
+Commit by: Naman Bansal
